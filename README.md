@@ -1,4 +1,4 @@
-LABC RunTracker-App
+LABC RunTracker-App,
 Av:
-Fredrik Sundström 
+Fredrik Sundström, 
 Nasimullah Wazir
