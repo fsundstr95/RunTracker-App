@@ -36,7 +36,7 @@
         <service android:name=".model.service.TrackingService"
             android:foregroundServiceType="location"/>
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAjgXMH-y9no6BDdUHLX8-2jw8J7NtY-N8"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="-------------------------------"/>
     </application>
 
 </manifest>
